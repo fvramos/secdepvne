@@ -1,6 +1,8 @@
 # secdepvne
 Secure and dependable virtual network embedding
 
+Author: Luis Ferrolho
+
 Clean all the files with cleanAll.sh
 
 Execute the main by passing to it the following arguments: \<random> \<number of substrate nodes> \<number of virtual network requests> \<number of clouds>
